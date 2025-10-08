@@ -17,7 +17,7 @@ Business-friendly reporting: Summary, key insights, recommendations for CxOs and
 Quickstart
 Clone this repository
 
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/vivekraj-aiml/multiagent-financial-analysis.git
 cd yourproject
 
 Install dependencies
@@ -38,4 +38,5 @@ streamlit run streamlit_main.py
 Explore the UI:
 
 Use sidebar templates or enter your own analysis request.
+
 View interactive charts and executive summary.
